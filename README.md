@@ -1,4 +1,4 @@
-# Data-Structure
+# Data-Structure (자료구조 정리)
 
 __1. 스택__
   - 스택 개념
